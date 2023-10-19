@@ -9,9 +9,9 @@ tags:
   - PAC-Bayes Training
 ---
 
-This post introduces our paper **PAC-tuning: Fine-tuning Pretrained Language Models with PAC-driven Perturbed Gradient Descent** accepted by EMNLP 23.
+This post introduces our paper **PAC-tuning: Fine-tuning Pretrained Language Models with PAC-driven Perturbed Gradient Descent** accepted by EMNLP 23. Code is available at [https://github.com/MSU-NLP-CSS/PAC-tuning](https://github.com/MSU-NLP-CSS/PAC-tuning)
 
-Code: https://github.com/MSU-NLP-CSS/PAC-tuning
+Code: 
 ======
 
 You can have many headings
