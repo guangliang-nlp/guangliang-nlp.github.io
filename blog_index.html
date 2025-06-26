@@ -1,0 +1,132 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- *** EDIT: Update Title *** -->
+    <title>[Your Name] - Blog</title>
+
+    <!-- Google Fonts Link (Keep this - same as index.html) -->
+    <link href="https://fonts.googleapis.com/css2?family=Aref+Ruqaa:wght@300;400;700&family=JetBrains+Mono:wght@400;500&family=Source+Sans+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <!-- MathJax Configuration (Optional - include if posts use LaTeX) -->
+    <script>
+    MathJax = {
+      tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+      svg: { fontCache: 'global' }
+    };
+    </script>
+    <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+
+    <!-- CSS Styles (Should be IDENTICAL to index.html's styles) -->
+    <style>
+      /* --- PASTE THE ENTIRE <style> block FROM YOUR index.html HERE --- */
+      /* Ensure this includes styles for body, .container-fluid, h2, p, a, etc. */
+      /* Example start: */
+      ::selection { background: rgba(255, 235, 60, 0.2); }
+      #img { /* ... styles ... */ } /* May not be needed here, but keep for consistency if externalizing */
+      p { line-height: 1.7; }
+      body {
+        padding: 90px 0;
+        font: 16px 'Source Sans Pro', -apple-system, BlinkMacSystemFont, sans-serif;
+        color: rgba(0, 0, 0, .8);
+        font-weight: 300;
+        line-height: 1.5;
+        display: flex; /* <<< Key for centering */
+        justify-content: center; /* <<< Key for centering */
+      }
+      h1 { /* ... styles ... */ }
+      h2 { /* ... styles ... */ font-size: 0.85em; margin-top: 3em; /* etc. */ }
+      a:link, a:visited { /* ... link styles ... */ }
+      a:hover, a:active { /* ... hover styles ... */ }
+      .container-fluid { /* <<< Key for layout */
+        width: auto;
+        max-width: 520px;
+        padding: 0 120px;
+        position: relative;
+      }
+      .header { /* Keep if needed for spacing, or remove if only for index.html */ }
+      .entry { /* ... styles ... */ }
+      .entry-text { /* ... styles ... */ }
+      .entry-note { /* ... styles ... */ }
+      .margin-text { /* ... styles ... */ } /* May not be used here, but keep for consistency */
+      b { /* ... styles ... */ }
+      /* Responsive adjustments (copy from index.html) */
+      @media print, screen and (max-width: 720px) { /* ... styles ... */ }
+      @media print, screen and (max-width: 480px) { /* ... styles ... */ }
+      @media print { /* ... styles ... */ }
+
+      /* --- Add styles specifically for the blog index list --- */
+      .post-list-item {
+          margin-bottom: 0.8em; /* Space between list items */
+          /* You might reuse .entry styling if it fits */
+      }
+      .post-list-date {
+          display: inline-block; /* Allows setting width */
+          width: 4em; /* Adjust as needed for alignment */
+          color: rgba(0, 0, 0, 0.5); /* Lighter date color */
+          font-size: 0.9em; /* Slightly smaller */
+          font-family: 'JetBrains Mono', monospace; /* Match margin-text font */
+          vertical-align: top; /* Align with top of title */
+          margin-right: 0.5em; /* Space between date and title */
+      }
+      .post-list-title {
+          /* The link styling from 'a' tag will apply */
+          /* Add specific title styles if needed */
+          display: inline; /* Keep title on same line as date */
+      }
+      /* --- END OF PASTED/ADDED STYLES --- */
+    </style>
+    <!-- OR link to the same external CSS file: <link rel="stylesheet" href="style.css"> -->
+
+</head>
+
+<body>
+    <!-- This container is centered by the body style -->
+    <div class="container-fluid">
+
+        <!-- Blog Header Section -->
+        <!-- Using H2 like the main sections in index.html -->
+        <h2>Blog</h2>
+        <p style="margin-bottom: 3em;"> <!-- Add some space below header -->
+            <!-- *** EDIT: Link back to your main homepage *** -->
+            <a href="index.html">← Back to Home</a>
+        </p>
+
+        <!-- Blog Post Listing -->
+        <!-- Using a simple structure, styled with .post-list-* classes -->
+
+        <div class="post-list-item">
+            <!-- *** EDIT: Date (for display & datetime) and link/title *** -->
+            <span class="post-list-date"><time datetime="2025-05-03">05.25</time></span>
+            <!-- *** LINK TO THE ACTUAL POST FILE *** -->
+            <a href="posts/my-first-post.html" class="post-list-title">My First Blog Post Title</a>
+        </div>
+
+        <div class="post-list-item">
+             <!-- *** EDIT: Date (for display & datetime) and link/title *** -->
+            <span class="post-list-date"><time datetime="2025-04-20">04.25</time></span>
+             <!-- *** LINK TO THE ACTUAL POST FILE *** -->
+            <a href="posts/second-post-topic.html" class="post-list-title">Reflections on Conference XYZ</a>
+        </div>
+
+        <div class="post-list-item">
+             <!-- *** EDIT: Date (for display & datetime) and link/title *** -->
+            <span class="post-list-date"><time datetime="2025-03-10">03.25</time></span>
+             <!-- *** LINK TO THE ACTUAL POST FILE *** -->
+            <a href="posts/another-update.html" class="post-list-title">Another Update on Project Q</a>
+        </div>
+
+        <!-- Add more post list items here -->
+
+
+        <!-- Optional Footer (if you have one in index.html) -->
+        <!--
+        <footer>
+            <p><small>&copy; 2025 Your Name. Last updated: May 3, 2025</small></p>
+        </footer>
+        -->
+
+    </div><!-- /.container-fluid -->
+</body>
+</html>

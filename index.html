@@ -1,0 +1,371 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bocheng Chen's Homepage</title> <link href="https://fonts.googleapis.com/css2?family=Aref+Ruqaa:wght@300;400;700&family=JetBrains+Mono:wght@400;500&family=Source+Sans+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <style>
+      ::selection {
+        background: rgba(255, 235, 60, 0.2); /* Highlight color */
+      }
+
+      #img {
+        position: absolute;
+        right: calc(100% + 1.1em);
+        top: 0;
+        width: 60px;  /* Adjust size if needed */
+        height: 60px; /* Adjust size if needed */
+        border-radius: 50%;
+        margin: 0;
+        margin-top:.5em;
+        filter: contrast(110%) brightness(110%); /* Optional image filter */
+      }
+
+      p {
+        line-height: 1.7;
+      }
+
+      body {
+        padding: 90px 0;
+        font: 16px 'Source Sans Pro', -apple-system, BlinkMacSystemFont, sans-serif;
+        color: rgba(0, 0, 0, .8);
+        font-weight: 300;
+        line-height: 1.5;
+        display: flex;
+        justify-content: center;
+      }
+
+      h1 { /* Used for section titles in this style, not main name */
+        font-size: 1em;
+        margin-top: 3em;
+        margin-bottom: 1.5em;
+        font-weight: 400;
+        letter-spacing: 0.05em;
+      }
+
+      h2 { /* Used for main section titles (News, Papers, etc.) */
+        font-size: 0.85em;
+        margin-top: 3em;
+        margin-bottom: 1.5em;
+        font-weight: 300;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        color: rgba(0, 0, 0, 0.5);
+      }
+
+      a:link, a:visited {
+        color: rgba(0, 0, 0, 0.8);
+        text-decoration: none;
+        border-bottom: 1.5px dotted rgba(0, 0, 0, 0.3);
+      }
+
+      a:hover, a:active {
+        border-bottom-color: rgba(0, 0, 0, 0.5);
+      }
+
+      .container-fluid {
+        width: auto;
+        max-width: 520px; /* Adjust main content width if needed */
+        padding: 0 120px;
+        position: relative;
+      }
+
+      .header {
+        position: relative;
+        margin-bottom: 2em;
+      }
+
+      .entry {
+        position: relative;
+        margin-bottom: 0.5em; /* Space between entries */
+      }
+
+      .entry-text {
+        margin: 0;
+        line-height: 1.5;
+      }
+
+      .entry-note {
+        margin: 0;
+        line-height: 1.5;
+        font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, sans-serif;
+        color: rgba(0, 0, 0, 0.5);
+        font-size: 0.85em;
+      }
+
+      .margin-text { /* Style for the text in the left margin */
+        position: absolute;
+        right: calc(100% + 1.3em);
+        top: 0.15em;
+        text-align: right;
+        color: rgba(0, 0, 0, 0.5);
+        font-size: 0.85em;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        line-height: 1.5;
+        font-family: 'JetBrains Mono', monospace; /* Monospace font for margin */
+        font-weight: 300;
+      }
+
+      .margin-text a,
+      .margin-text a:link,
+      .margin-text a:visited,
+      .margin-text a:hover,
+      .margin-text a:active {
+        color: rgba(0, 0, 0, 0.5);
+        text-decoration: none;
+        border-bottom: none; /* No underline for links in margin */
+      }
+
+      b { /* Style for bold text, used for the name */
+        color: rgba(0, 0, 0, .8);
+        font-weight: 600;
+      }
+
+      /* Responsive adjustments for smaller screens */
+      @media print, screen and (max-width: 720px) {
+        body {
+          padding: 30px 0;
+        }
+        .container-fluid {
+          padding: 0 20px 0 100px; /* Adjust padding */
+          max-width: 100%;
+          margin-left: 0;
+        }
+        .margin-text {
+          right: calc(100% + 1em);
+          max-width: 90px;
+          overflow: visible;
+        }
+      }
+
+      @media print, screen and (max-width: 480px) {
+        body {
+          padding: 20px 0;
+        }
+        .container-fluid {
+          padding: 0 15px 0 90px; /* Further adjust padding */
+          max-width: 100%;
+          margin-left: 0;
+        }
+        #img { /* Make image part of normal flow on very small screens */
+          position: relative;
+          right: auto;
+          top: auto;
+          margin-bottom: 20px;
+        }
+        .margin-text {
+          right: calc(100% + 0.8em);
+          max-width: 80px;
+          overflow: visible;
+        }
+      }
+
+      /* Print-specific styles (optional) */
+      @media print {
+        body { padding: 0; }
+        .container-fluid { padding: 0.4in; }
+        /* Add other print styles if needed */
+      }
+    </style>
+
+    <script>
+      // Function to toggle visibility of older papers
+      function toggle (t, id) {
+        var recentText = "recent papers"; // Text for showing recent papers
+        var allText = "all papers";     // Text for showing all papers
+        if (t.innerHTML === allText) {
+            t.innerHTML = recentText;
+        } else {
+            t.innerHTML = allText;
+        }
+        var e = document.getElementById(id);
+        e.style.display = (e.style.display === 'block') ? 'none' : 'block';
+      }
+
+      // Scramble text function (optional - keep if you like the effect)
+      function scrambleText(element) {
+        const latinChars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()_+=-`~[]{};:,./<>?'; // Character set for scrambling
+        const walker = document.createTreeWalker(element, NodeFilter.SHOW_TEXT, null, false);
+        let nodes = [];
+        let node;
+        while (node = walker.nextNode()) { nodes.push(node); }
+
+        nodes.forEach(textNode => {
+          if (textNode.scrambleInterval) { clearInterval(textNode.scrambleInterval); }
+          if (!textNode.originalText) { textNode.originalText = textNode.textContent; }
+          if (textNode.originalText.trim() === '') return; // Skip empty nodes
+
+          let scrambledText = '';
+          let revealedIndices = new Set();
+          const chars = latinChars; // Using Latin chars; add Arabic if needed like original example
+
+          for (let i = 0; i < textNode.originalText.length; i++) {
+            scrambledText += textNode.originalText[i] === ' ' ? ' ' : chars.charAt(Math.floor(Math.random() * chars.length));
+          }
+          textNode.textContent = scrambledText;
+
+          textNode.scrambleInterval = setInterval(() => {
+            if (revealedIndices.size >= textNode.originalText.length) {
+              clearInterval(textNode.scrambleInterval);
+              textNode.textContent = textNode.originalText; // Ensure final text is correct
+              return;
+            }
+            let randomIndex;
+            do { randomIndex = Math.floor(Math.random() * textNode.originalText.length); }
+            while (revealedIndices.has(randomIndex) || textNode.originalText[randomIndex] === ' '); // Avoid revealing spaces
+
+            if (textNode.originalText[randomIndex] !== ' ') revealedIndices.add(randomIndex); // Only add non-space indices
+
+            scrambledText = scrambledText.split('').map((char, index) => {
+              return revealedIndices.has(index) ? textNode.originalText[index] : char;
+            }).join('');
+
+            textNode.textContent = scrambledText;
+
+             // Check if all non-space characters are revealed
+             let allRevealed = true;
+             for(let i=0; i<textNode.originalText.length; i++) {
+                 if (textNode.originalText[i] !== ' ' && !revealedIndices.has(i)) {
+                     allRevealed = false;
+                     break;
+                 }
+             }
+             if (allRevealed) {
+                 clearInterval(textNode.scrambleInterval);
+                 textNode.textContent = textNode.originalText; // Final cleanup
+             }
+
+          }, 50); // Adjust speed (milliseconds)
+        });
+      }
+
+      // Apply scramble effect on page load and other triggers (optional)
+      document.addEventListener('DOMContentLoaded', function() {
+        const img = document.getElementById('img');
+        const marginTexts = document.querySelectorAll('.margin-text');
+        const nameElement = document.querySelector('.header b'); // Selects the bold name text in the header
+
+        // Initial scramble on page load
+        marginTexts.forEach(text => scrambleText(text));
+
+        // Add triggers if you want the re-scramble effect
+         if (img) {
+             img.addEventListener('click', function() {
+                 marginTexts.forEach(text => scrambleText(text));
+             });
+         }
+         if (nameElement) {
+             nameElement.addEventListener('click', function() {
+                 marginTexts.forEach(text => scrambleText(text));
+             });
+         }
+        document.addEventListener('keydown', function(event) {
+          if (event.key === 's' || event.key === 'S') { // Trigger on 's' or 'S'
+            marginTexts.forEach(text => scrambleText(text));
+          }
+        });
+      });
+      </script>
+
+</head>
+
+<body>
+    <div class="container-fluid">
+
+      <div class="header">
+        <img id="img" src="images/your-photo.jpg" alt="[Your Name]">
+        <p>My name is <b>Bocheng Chen</b> and I'm a [Your Title] at [Your University/Institution].
+        I study computer security. My current focus is on [More specific research interests].
+        I'm a member of the <a href="[Link to your lab/group website]">Your Lab/Group Name</a>.
+        </p>
+      </div>
+
+      <p>
+        <a href="./cv.pdf">cv</a>
+        &nbsp;·&nbsp;
+        <!-- <a href="blog_index.html">blog</a> -->
+        <!-- &nbsp;·&nbsp; -->
+        your.email@example.com
+        &nbsp;·&nbsp;
+        <a href="https://scholar.google.com/citations?user=S-TP2MoAAAAJ&hl=en">google scholar</a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/Bocheng-Chen/">github</a>
+      </p>
+
+
+<!--       <h2>News</h2>
+      <div class="entry">
+        <div class="margin-text">[MM.YY]</div> <p class="entry-text">Something newsworthy happened! Maybe a grant, award, or new project.</p>
+      </div>
+      <div class="entry">
+        <div class="margin-text">[MM.YY]</div>
+        <p class="entry-text">Another piece of news, perhaps a student achievement.</p>
+      </div> -->
+      <h2>Papers</h2>
+      <p style="margin-bottom:1.5em"> see <a href="javascript:;" onclick="toggle(this,'papers')">all papers</a> &nbsp;·&nbsp; preprints on <a href="[Link to your ArXiv Search]">arxiv</a></p>
+
+      <div class="entry">
+         <div class="margin-text"><a href="./papers/your_paper1.pdf">Conf 'YY</a></div> <p class="entry-text">Authors. "Title of Your Recent Paper 1".</p>
+        </div>
+      <div class="entry">
+        <div class="margin-text"><a href="./papers/your_paper2.pdf">Journal 'YY</a></div>
+        <p class="entry-text">Authors. "Title of Your Recent Paper 2".</p>
+      </div>
+      <div id="papers" style="display:none;">
+          <div class="entry">
+            <div class="margin-text"><a href="./papers/your_older_paper1.pdf">Conf 'YY</a></div>
+            <p class="entry-text">Authors. "Title of Your Older Paper 1".</p>
+          </div>
+          <div class="entry">
+            <div class="margin-text"><a href="./papers/your_older_paper2.pdf">Conf 'YY</a></div>
+            <p class="entry-text">Authors. "Title of Your Older Paper 2".</p>
+            <p class="entry-note">Some note about this paper.</p>
+          </div>
+          </div>
+      <h2>Group</h2>
+      <div class="entry">
+         <div class="margin-text"><a href="[Link to Member 1 Page]">YY-</a></div> <p class="entry-text">Member Name 1 (PhD Student)</p>
+      </div>
+      <div class="entry">
+        <div class="margin-text"><a href="[Link to Member 2 Page]">YY-</a></div>
+        <p class="entry-text">Member Name 2 (Postdoc)</p>
+      </div>
+<!--       <h2>Alumni</h2>
+      <div class="entry">
+         <div class="margin-text"><a href="[Link to Alum 1 Page]">PhD 'YY</a></div> <p class="entry-text">Alumni Name 1</p>
+        <p class="entry-note">→ Current Position (e.g., Assistant Professor at XYZ)</p>
+      </div>
+      <div class="entry">
+        <div class="margin-text"><a href="[Link to Alum 2 Page]">MSc 'YY</a></div>
+        <p class="entry-text">Alumni Name 2</p>
+        <p class="entry-note">→ Software Engineer at ABC</p>
+      </div>
+      <h2>Awards</h2>
+      <div class="entry">
+        <div class="margin-text">YY</div> <p class="entry-text">Name of Award 1</p>
+      </div>
+      <div class="entry">
+        <div class="margin-text">YY</div>
+        <p class="entry-text">Name of Award 2</p>
+      </div> -->
+      <h2>Teaching</h2>
+      <div class="entry">
+         <div class="margin-text"><a href="[Link to Course 1 Page]">S'YY/F'YY</a></div> <p class="entry-text">CS XXX: Course Title 1</p>
+      </div>
+      <div class="entry">
+        <div class="margin-text"><a href="[Link to Course 2 Page]">F'YY</a></div>
+        <p class="entry-text">CS YYY: Course Title 2</p>
+      </div>
+      <h2></h2>
+      <footer>
+          <p>
+              <small>
+                  <br> Inspired by <a href="https://pages.cs.wisc.edu/~aws/" target="_blank" rel="noopener noreferrer">Aws Albarghouthi's homepage</a>.
+              </small>
+          </p>
+      </footer>
+  </body>
+</html>

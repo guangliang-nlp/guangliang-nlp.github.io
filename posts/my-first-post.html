@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Blog Post Title - [Your Name]</title>
+
+    <script>
+        MathJax = {
+          tex: {
+            inlineMath: [['$', '$'], ['\\(', '\\)']] // Defines $...$ and \(...\) as inline math
+            // You could add displayMath here too if needed:
+            // displayMath: [['$$', '$$'], ['\\[', '\\]']]
+          },
+          svg: {
+            fontCache: 'global' // Recommended setting for SVG output
+          }
+          // Add other configuration options if necessary
+        };
+      </script>
+    <script type="text/javascript" id="MathJax-script" async src=".../tex-svg.js"></script>
+
+    <link href="https://fonts.googleapis.com/css2?...&display=swap" rel="stylesheet">
+    <style>
+        /* --- PASTE THE <style> block FROM YOUR index.html HERE --- */
+        /* Or link <link rel="stylesheet" href="../style.css"> (note the ../) */
+        /* Add styles from blog_index.html if needed */
+         .post-date { /* ... */ }
+         h3 { /* ... */ }
+         article.blog-post { /* ... */ }
+    </style>
+</head>
+<body>
+    <div class="container-fluid">
+        <p style="margin-bottom: 2em;">
+            <a href="../blog_index.html">← Blog Index</a> /
+            <a href="../index.html">← Home</a>
+        </p>
+        <article class="blog-post">
+             <h3>My First Blog Post Title</h3>
+            <p class="post-date">May 3, 2025</p>
+             <p>Full content of the blog post goes here...</p>
+            <p>Including multiple paragraphs, $E=mc^2$ formulas, etc.</p>
+        </article>
+    </div>
+</body>
+</html>
