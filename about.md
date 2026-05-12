@@ -9,7 +9,7 @@ redirect_from:
 
 My research focuses on natural language processing, with particular interests in computational pragmatics, machine morality, and statistical learning theory. I study the mechanisms that enable machines to understand the implied meaning of human language.
 
-<p style="font-size:0.85em; background-color:rgba(242,139,130,0.8); padding:0.5em 0.75em; border-radius:4px;">I am looking for self-motivated PhD students for 27 Spring/Fall. Please email me your CV, transcripts, TOEFL/IELTS scores to my email at <a href="mailto:liugua@iu.edu">liugua@iu.edu</a>.</p>
+<p style="font-size:0.85em; background-color:rgba(242,139,130,0.9); padding:0.5em 0.75em; border-radius:4px;">I am looking for self-motivated PhD students for 27 Spring/Fall. Please email me your CV, transcripts, TOEFL/IELTS scores to my email at <a href="mailto:liugua@iu.edu">liugua@iu.edu</a>.</p>
 ---
 
 <section id="news">
@@ -35,7 +35,7 @@ My research focuses on natural language processing, with particular interests in
 <section id="lab">
 <h2>Lab</h2>
 
-<p>I am the PI of the Language and Social Intelligence Lab at Indiana University. Our ultimate goal is to enable machines to understand human language and develop social intelligence that supports people.</p>
+<p>I am the PI of the <strong>Language and Social Intelligence Lab</strong> at Indiana University. Our ultimate goal is to enable machines to understand human language and develop social intelligence that supports people.</p>
 
 <details>
 <summary style="cursor:pointer; font-weight:600; margin-bottom:0.8em;">Prospective students</summary>
