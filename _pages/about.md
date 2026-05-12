@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Guangliang. My research focuses on natural language processing, with particular interests in computational pragmatics, machine morality, and statistical learning theory. I study the mechanisms that enable machines to understand the implied meaning of human language.
 
-I am looking for self-motivated PhD students for 27Spring/Fall. Please email me your CV, transcripts, TOEFL/IELTS scores to my email at liugua@iu.edu.
+I am looking for self-motivated PhD students for 27 Spring/Fall. Please email me your CV, transcripts, TOEFL/IELTS scores to my email at liugua@iu.edu.
 ---
 
 <section id="news">
@@ -39,7 +39,7 @@ I am looking for self-motivated PhD students for 27Spring/Fall. Please email me 
 
 <details>
 <summary style="cursor:pointer; font-weight:600; margin-bottom:0.8em;">Prospective students</summary>
-<p style="margin-top:0.8em;">I am actively looking for motivated Ph.D. students and postdocs. If you are interested in joining the lab, please apply through the <a href="#">Indiana University CS/DS/HCI Ph.D. program</a> and mention my name in your application. Feel free to email me a brief introduction along with your CV.</p>
+<p style="margin-top:0.8em;">I am actively looking for motivated Ph.D. students and research interns. If you are interested in joining the lab, please afeel free to email me a brief introduction along with your CV.</p>
 </details>
 
 <h3 style="margin-top:1.2em;">Current Members</h3>
