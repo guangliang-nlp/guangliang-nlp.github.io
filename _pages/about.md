@@ -18,7 +18,7 @@ My research focuses on natural language processing, with particular interests in
   <div style="overflow-y:auto; max-height:100px;">
     <ul style="list-style:none; padding:0; margin:0; font-size: 13px;">
       <li>
-        May 2026: Extremely excited to enjoy the summer together with Dr. Bocheng Chen from University of Mississippi and Dr. Zoe Xi Chen from Nanyang Technological University on a new computational framework for toxic language and malicious attack commands.
+        May 2026: Extremely excited to enjoy the summer together with Dr. Bocheng Chen from University of Mississippi and Dr. Zoe Xi Chen from Nanyang Technological University on a new computational pragmatics framework for toxic language and malicious attack commands.
       </li>
       <li>
         May 2026: Start to work together with Dong Duong and An Pham on a project about the shallow heuristics in code models.
@@ -35,7 +35,7 @@ My research focuses on natural language processing, with particular interests in
 <section id="lab">
 <h2>Lab</h2>
 
-<p>I direct the <strong>Language and Social Intelligence Lab</strong> at Indiana University.</p>
+<p>I direct the Language and Social Intelligence Lab at Indiana University. Our ultimate goal is to enable machines to understand human language and develop social intelligence that supports people.</p>
 
 <details>
 <summary style="cursor:pointer; font-weight:600; margin-bottom:0.8em;">Prospective students</summary>
