@@ -9,7 +9,7 @@ redirect_from:
 
 My research focuses on natural language processing, with particular interests in computational pragmatics, machine morality, and statistical learning theory. I study the mechanisms that enable machines to understand the implied meaning of human language. 
 
-Humans rely on implied meaning (pragmatics) in everyday communication, whereas even the most advanced language models primarily capture distributional semantics. This gap poses a fundamental barrier to language understanding, and, more broadly, to social intelligence. My research aims to bridge this gap and support socially beneficial applications of language technologies.
+Humans rely on implied meaning (pragmatics) in everyday communication, whereas even the most advanced language models primarily capture distributional semantics. This gap poses a fundamental barrier to language understanding and, more broadly, to social intelligence. My research aims to develop heuristic- and statistics-driven approaches to enable socially beneficial applications of language technologies.
 
 <p style="
   font-size:0.9em;
@@ -23,7 +23,7 @@ Humans rely on implied meaning (pragmatics) in everyday communication, whereas e
   <strong>Openings:</strong>
   I am looking for self-motivated PhD students for Spring/Fall 2027.
   Please email me your CV, transcripts, and TOEFL/IELTS scores at
-  <a href="mailto:liugua@iu.edu">liugua@iu.edu</a>.
+  <a href="mailto:liugua@iu.edu">liugua@iu.edu</a>. 
 </p>
 ---
 
