@@ -46,6 +46,9 @@ Humans rely on implied meaning (pragmatics) in everyday communication, whereas e
       <li>
         <strong>April 2026</strong>: Han Zi has joined my lab to study pragmatic gaps in moral alignment.
       </li>
+      <li>
+        <strong>April 2026</strong>: Gave a talk titled <strong>From Language Models to Moral Machines</strong> at IU Indianapolis.
+      </li>
     </ul>
   </div>
 </section>
