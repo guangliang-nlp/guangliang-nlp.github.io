@@ -22,7 +22,7 @@ Humans rely on implied meaning (pragmatics) in everyday communication, whereas e
   <strong>Openings:</strong>
   I am looking for self-motivated PhD students for Spring/Fall 2027.
   Please email me your CV, transcripts, and TOEFL/IELTS scores at
-  <a href="mailto:liugua@iu.edu">liugua@iu.edu</a>. 
+  <a href="mailto:liugua@iu.edu">liugua@iu.edu</a>. Students with backgrounds in linguistics and cognitive science are also welcome to contact me.
 </p>
 ---
 
