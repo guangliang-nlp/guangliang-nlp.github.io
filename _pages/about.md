@@ -16,15 +16,8 @@ I am looking for self-motivated PhD students for 27Spring/Fall. Please email me 
 <p><strong>What's new?</strong></p>
 <div style="overflow-y:auto; max-height:100px;">
   <ul style="list-style:none; padding:0; margin:0;">
-    <li>May 2026: Han Zi joined my lab for a research topic about pragmataic gap in moral alignment.</li>
-    <li>May 2026: Han Zi joined my lab for a research topic about pragmataic gap in moral alignment.</li>
-    <li>May 2026: Han Zi joined my lab for a research topic about pragmataic gap in moral alignment.</li>
-    <li>May 2026: Han Zi joined my lab for a research topic about pragmataic gap in moral alignment.</li>
-    <li>May 2026: Han Zi joined my lab for a research topic about pragmataic gap in moral alignment.</li>
-    <li>May 2026: Han Zi joined my lab for a research topic about pragmataic gap in moral alignment.</li>
-    <li>May 2026: Han Zi joined my lab for a research topic about pragmataic gap in moral alignment.</li>
-    <li>May 2026: Han Zi joined my lab for a research topic about pragmataic gap in moral alignment.</li>
-    <li>May 2026: Han Zi joined my lab for a research topic about pragmataic gap in moral alignment.</li>
+    <li>May 2026: Start to work together with Dong Duong and An Pham on a project about the shallow heuristics in code models.</li>
+    <li>April 2026: Han Zi joined my lab for a research topic about pragmataic gap in moral alignment.</li>
   </ul>
 </div>
 </section>
