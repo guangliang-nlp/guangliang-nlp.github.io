@@ -18,7 +18,7 @@ I am looking for self-motivated PhD students for 27Spring/Fall. Please email me 
   <div style="overflow-y:auto; max-height:100px;">
     <ul style="list-style:none; padding:0; margin:0; font-size:inherit;">
       <li>
-        May 2026: Extremely excited to start working together with Dr. Bocheng Chen from University of Mississippi and Dr. Zoe Xi Chen from Nanyang Technological University on a new computational framework for toxic language and malicious attack commands.
+        May 2026: Extremely excited to enjoy the summer together with Dr. Bocheng Chen from University of Mississippi and Dr. Zoe Xi Chen from Nanyang Technological University on a new computational framework for toxic language and malicious attack commands.
       </li>
       <li>
         May 2026: Start to work together with Dong Duong and An Pham on a project about the shallow heuristics in code models.
