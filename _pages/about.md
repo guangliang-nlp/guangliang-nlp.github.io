@@ -44,16 +44,10 @@ I am looking for self-motivated PhD students for 27Spring/Fall. Please email me 
 
 <h3 style="margin-top:1.2em;">Current Members</h3>
 <ul style="list-style:none; padding:0;">
-  <li style="margin-bottom:0.4em;"><a href="#">Student Name</a> — Ph.D. student (co-advised with [Advisor])</li>
-  <li style="margin-bottom:0.4em;"><a href="#">Student Name</a> — Ph.D. student</li>
-  <li style="margin-bottom:0.4em;"><a href="#">Student Name</a> — M.S. student</li>
+  <li style="margin-bottom:0.4em;"><a href="#">Han Zi</a> — incoming Ph.D. student</li>
 </ul>
 
-<h3 style="margin-top:1.2em;">Alumni</h3>
-<ul style="list-style:none; padding:0;">
-  <li style="margin-bottom:0.4em;"><a href="#">Alumni Name</a> — Ph.D. [year] &rarr; [current position]</li>
-  <li style="margin-bottom:0.4em;"><a href="#">Alumni Name</a> — M.S. [year] &rarr; [current position]</li>
-</ul>
+
 </section>
 
 ---
