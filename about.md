@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My research focuses on <strong>natural language processing</strong>, with particular interests in computational pragmatics, machine morality, and statistical learning theory.
+My research focuses on <strong>natural language processing</strong> and <strong>computational linguistics</strong>, with particular interests in computational pragmatics, machine morality, and statistical learning theory.
 
 Humans rely on implied meaning (pragmatics) in everyday communication, whereas even the most advanced language models primarily capture distributional semantics. This gap poses a fundamental barrier to language understanding and, more broadly, to social intelligence. My research aims to develop heuristic- and statistics-driven approaches to enable socially beneficial applications of language technologies.
 
