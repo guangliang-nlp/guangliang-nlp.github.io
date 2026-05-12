@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming tenure-track assistant professor in the Luddy School of Informations, Computing and Engieering at Indiana University. My research focuses on <strong>natural language processing</strong> and <strong>computational linguistics</strong>, with particular interests in computational pragmatics, machine morality, and statistical learning theory.
+I am an incoming tenure-track assistant professor in the Luddy School of Informatics, Computing and Engieering at Indiana University. My research focuses on <strong>natural language processing</strong> and <strong>computational linguistics</strong>, with particular interests in computational pragmatics, machine morality, and statistical learning theory.
 
 Humans rely on implied meaning (pragmatics) in everyday communication, whereas even the most advanced language models primarily capture distributional semantics. This gap poses a fundamental barrier to language understanding and, more broadly, to social intelligence. My research develops approaches grounded in linguistics, cognition, and statistics to enable socially beneficial language technologies.
 <p style="
