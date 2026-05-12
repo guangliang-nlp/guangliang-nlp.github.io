@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My research focuses on natural language processing, with particular interests in computational pragmatics, machine morality, and statistical learning theory. I study the mechanisms that enable machines to understand the implied meaning of human language.
-
-“Humans rely on implied meaning (pragmatics) in everyday communication, whereas even the most advanced language models primarily capture distributional semantics. This gap poses a fundamental barrier to robust language understanding—and, more broadly, to social intelligence. My research aims to bridge this gap and support socially beneficial applications of language technologies.”
+My research focuses on natural language processing, with particular interests in computational pragmatics, machine morality, and statistical learning theory. I study the mechanisms that enable machines to understand the implied meaning of human language. Humans rely on implied meaning (pragmatics) in everyday communication, whereas even the most advanced language models primarily capture distributional semantics. This gap poses a fundamental barrier to robust language understanding—and, more broadly, to social intelligence. My research aims to bridge this gap and support socially beneficial applications of language technologies.
 
 <p style="
   font-size:0.9em;
