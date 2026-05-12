@@ -5,16 +5,109 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
+<h2>Dissertation</h2>
+<ul>
+  <li>
+    G. Liu.
+    <strong>From Language Models to Moral Machines: Mechanism and Generalization.</strong>
+    <em>Michigan State University</em>, 2026.
+  </li>
+</ul>
 
 <h2>Conference Papers</h2>
-{% assign conf_pubs = site.publications | where: "category", "conferences" | sort: "date" | reverse %}
-{% for post in conf_pubs %}
-  {% include archive-single.html %}
-{% endfor %}
+<ul>
+  <li>
+    G. Liu, Z. Qi, X. Zhang, L. Cheng, K. Johnson.
+    <strong>Moral Self-Correction is Not An Innate Capability in Language Models.</strong>
+    <em>IJCNLP 2025</em>.
+  </li>
+  <li>
+    G. Liu, H. Mao, B. Cao, X. Zhang, Z. Xue, R. Wang, K. Johnson.
+    <strong>On the Convergence of Moral Self-Correction in Large Language Models.</strong>
+    <em>IJCNLP 2025</em>.
+  </li>
+  <li>
+    G. Liu, Z. Xue, X. Zhang, R. Wang, K. Johnson.
+    <strong>Smaller Large Language Models Can Do Moral Self-Correction.</strong>
+    <em>TrustNLP @ NAACL 2025</em>.
+  </li>
+  <li>
+    H. Mao, G. Liu, Y. Ma, R. Wang, K. Johnson, J. Tang.
+    <strong>A Survey to Recent Progress Towards Understanding In-Context Learning.</strong>
+    <em>NAACL 2025</em>.
+  </li>
+  <li>
+    G. Liu, H. Mao, J. Tang, K. Johnson.
+    <strong>Intrinsic Self-Correction for Enhanced Morality: An Analysis of Internal Mechanisms and the Superficial Hypothesis.</strong>
+    <em>EMNLP 2024</em>.
+  </li>
+  <li>
+    G. Liu, M. Afshari, X. Zhang, Z. Xue, A. Ghosh, B. Bashyal, R. Wang, et al.
+    <strong>Towards Understanding Task-Agnostic Debiasing Through the Lenses of Intrinsic Bias and Forgetfulness.</strong>
+    <em>ACL 2024</em>.
+  </li>
+</ul>
 
-<h2>Journal Articles</h2>
-{% assign journal_pubs = site.publications | where: "category", "manuscripts" | sort: "date" | reverse %}
-{% for post in journal_pubs %}
-  {% include archive-single.html %}
-{% endfor %}
+<h2>Preprints</h2>
+<ul>
+  <li>
+    Z. Xue, Z. Qi, G. Liu, B. Chen, R. Pedarsani.
+    <strong>Deactivating Refusal Triggers: Understanding and Mitigating Overrefusal in Safety Alignment.</strong>
+    <em>arXiv:2603.11388</em>, 2026.
+    <a href="https://arxiv.org/abs/2603.11388">[arXiv]</a>
+  </li>
+  <li>
+    B. Chen, H. Zi, X. Chen, X. Zhang, K. Johnson, G. Liu.
+    <strong>Learning to Diagnose and Correct Moral Errors: Towards Enhancing Moral Sensitivity in Large Language Models.</strong>
+    <em>arXiv:2601.03079</em>, 2026.
+    <a href="https://arxiv.org/abs/2601.03079">[arXiv]</a>
+  </li>
+  <li>
+    G. Liu, X. Chen, B. Chen, H. Zi, X. Zhang, K. Johnson.
+    <strong>Pragmatic Inference for Moral Reasoning Acquisition: Generalization via Distributional Semantics.</strong>
+    <em>arXiv:2509.24102</em>, 2025.
+    <a href="https://arxiv.org/abs/2509.24102">[arXiv]</a>
+  </li>
+  <li>
+    G. Liu, B. Chen, H. Zi, X. Zhang, K. M. Johnson.
+    <strong>Diagnosing the Performance Trade-off in Moral Alignment: A Case Study on Gender Stereotypes.</strong>
+    <em>arXiv:2509.21456</em>, 2025.
+    <a href="https://arxiv.org/abs/2509.21456">[arXiv]</a>
+  </li>
+  <li>
+    G. Liu, Z. Qi, X. Zhang, K. M. Johnson.
+    <strong>Discourse Heuristics for Paradoxically Moral Self-Correction.</strong>
+    <em>arXiv:2507.00985</em>, 2025.
+    <a href="https://arxiv.org/abs/2507.00985">[arXiv]</a>
+  </li>
+  <li>
+    G. Liu, Z. Qi, X. Zhang, L. Jiang, K. M. Johnson.
+    <strong>Diagnosing Moral Reasoning Acquisition in Language Models: Pragmatics and Generalization.</strong>
+    <em>arXiv:2502.16600</em>, 2025.
+    <a href="https://arxiv.org/abs/2502.16600">[arXiv]</a>
+  </li>
+  <li>
+    Z. Xue, G. Liu, B. Chen, K. M. Johnson, R. Pedarsani.
+    <strong>No Free Lunch for Defending Against Prefilling Attack by In-Context Learning.</strong>
+    <em>arXiv:2412.12192</em>, 2024.
+    <a href="https://arxiv.org/abs/2412.12192">[arXiv]</a>
+  </li>
+  <li>
+    G. Liu, Z. Qi, X. Zhang, L. Cheng, K. M. Johnson.
+    <strong>Self-Correction is Not An Innate Capability in Large Language Models: A Case Study of Moral Self-Correction.</strong>
+    <em>arXiv:2410.20513</em>, 2024.
+    <a href="https://arxiv.org/abs/2410.20513">[arXiv]</a>
+  </li>
+  <li>
+    G. Liu, H. Mao, B. Cao, Z. Xue, X. Zhang, R. Wang, J. Tang, K. Johnson.
+    <strong>On the Intrinsic Self-Correction Capability of LLMs: Uncertainty and Latent Concept.</strong>
+    <em>arXiv:2406.02378</em>, 2024.
+    <a href="https://arxiv.org/abs/2406.02378">[arXiv]</a>
+  </li>
+  <li>
+    H. Mao, G. Liu, Y. Ma, R. Wang, J. Tang.
+    <strong>A Data Generation Perspective to the Mechanism of In-Context Learning.</strong>
+    <em>arXiv:2402.02212</em>, 2024.
+    <a href="https://arxiv.org/abs/2402.02212">[arXiv]</a>
+  </li>
+</ul>
