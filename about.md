@@ -32,7 +32,7 @@ Humans rely on implied meaning (pragmatics) in everyday communication, whereas e
   <div style="overflow-y:auto; max-height:100px;">
     <ul style="list-style:none; padding:0; margin:0; font-size: 13px;">
       <li>
-        <strong>May 2026</strong>: I will serve as an area chair for ARR May and EMNLP2026.
+        <strong>May 2026</strong>: I will serve as an area chair for ACL ARR May and EMNLP2026.
       </li>
       <li>
         <strong>May 2026</strong>: Extremely excited to enjoy the summer together with Dr. Bocheng Chen from University of Mississippi and Dr. Zoe Xi Chen from Nanyang Technological University on a new computational pragmatics framework for toxic language and malicious attack commands.
