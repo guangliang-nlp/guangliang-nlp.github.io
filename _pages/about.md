@@ -16,7 +16,7 @@ I am looking for self-motivated PhD students for 27Spring/Fall. Please email me 
   <p><strong>What's new?</strong></p>
 
   <div style="overflow-y:auto; max-height:100px;">
-    <ul style="list-style:none; padding:0; margin:0; font-size:inherit;">
+    <ul style="list-style:none; padding:0; margin:0; font-size: inherit;">
       <li>
         May 2026: Extremely excited to enjoy the summer together with Dr. Bocheng Chen from University of Mississippi and Dr. Zoe Xi Chen from Nanyang Technological University on a new computational framework for toxic language and malicious attack commands.
       </li>
