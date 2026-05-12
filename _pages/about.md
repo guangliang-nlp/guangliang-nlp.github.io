@@ -52,20 +52,3 @@ I am looking for self-motivated PhD students for 27Spring/Fall. Please email me 
 
 ---
 
-<section id="teaching">
-<h2>Teaching</h2>
-
-<h3 style="margin-top:0.8em;">Current Courses</h3>
-<ul style="list-style:none; padding:0;">
-  <li style="margin-bottom:0.4em;"><strong>CSCI-B [XXX]</strong> — Natural Language Processing <span style="color:#666; font-size:0.9em;">(Fall 2026)</span></li>
-  <li style="margin-bottom:0.4em;"><strong>CSCI-B [XXX]</strong> — Foundations of Machine Learning <span style="color:#666; font-size:0.9em;">(Spring 2026)</span></li>
-</ul>
-
-<details>
-<summary style="cursor:pointer; font-weight:600; margin-top:0.8em;">Past courses</summary>
-<ul style="list-style:none; padding:0; margin-top:0.8em;">
-  <li style="margin-bottom:0.4em;"><strong>[Course ID]</strong> — [Course Title] <span style="color:#666; font-size:0.9em;">([Semester])</span></li>
-  <li style="margin-bottom:0.4em;"><strong>[Course ID]</strong> — [Course Title] <span style="color:#666; font-size:0.9em;">([Semester])</span></li>
-</ul>
-</details>
-</section>
