@@ -14,29 +14,16 @@ I am an incoming Assistant Professor at Indiana University. Previously, I was at
 ---
 
 <section id="news">
-<h2>News</h2>
-<ul class="news-list" style="list-style:none; padding:0; margin:0;">
-  <li style="display:flex; gap:1.2em; margin-bottom:0.55em;">
-    <span style="min-width:7em; color:#666; font-size:0.9em;">May 2026</span>
-    <span>Paper accepted at ACL 2026: <em>"Title of your paper"</em>.</span>
-  </li>
-  <li style="display:flex; gap:1.2em; margin-bottom:0.55em;">
-    <span style="min-width:7em; color:#666; font-size:0.9em;">Apr 2026</span>
-    <span>Gave a talk at [Workshop/Conference] on computational pragmatics.</span>
-  </li>
-  <li style="display:flex; gap:1.2em; margin-bottom:0.55em;">
-    <span style="min-width:7em; color:#666; font-size:0.9em;">Jan 2026</span>
-    <span>Paper accepted at NAACL 2026: <em>"Another paper title"</em>.</span>
-  </li>
-  <li style="display:flex; gap:1.2em; margin-bottom:0.55em;">
-    <span style="min-width:7em; color:#666; font-size:0.9em;">Sep 2025</span>
-    <span>Joined Indiana University as an incoming Assistant Professor.</span>
-  </li>
-  <li style="display:flex; gap:1.2em; margin-bottom:0.55em;">
-    <span style="min-width:7em; color:#666; font-size:0.9em;">May 2025</span>
-    <span>Paper accepted at ACL 2025: <em>"Paper title"</em>.</span>
-  </li>
-</ul>
+<p><strong>What's new?</strong></p>
+<div style="overflow-y:auto; max-height:100px;">
+  <ul style="list-style:none; padding:0; margin:0;">
+    <li>May 2026: Paper accepted at ACL 2026: <em>"Title of your paper"</em>.</li>
+    <li>Apr 2026: Gave a talk at [Workshop/Conference] on computational pragmatics.</li>
+    <li>Jan 2026: Paper accepted at NAACL 2026: <em>"Another paper title"</em>.</li>
+    <li>Sep 2025: Joined Indiana University as an incoming Assistant Professor.</li>
+    <li>May 2025: Paper accepted at ACL 2025: <em>"Paper title"</em>.</li>
+  </ul>
+</div>
 </section>
 
 ---
