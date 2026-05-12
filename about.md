@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Guangliang. My research focuses on natural language processing, with particular interests in computational pragmatics, machine morality, and statistical learning theory. I study the mechanisms that enable machines to understand the implied meaning of human language.
+My research focuses on natural language processing, with particular interests in computational pragmatics, machine morality, and statistical learning theory. I study the mechanisms that enable machines to understand the implied meaning of human language.
 
-<p style="font-size:0.85em; background-color:#f28b82; padding:0.5em 0.75em; border-radius:4px;">I am looking for self-motivated PhD students for 27 Spring/Fall. Please email me your CV, transcripts, TOEFL/IELTS scores to my email at <a href="mailto:liugua@iu.edu">liugua@iu.edu</a>.</p>
+<p style="font-size:0.85em; background-color:rgba(242,139,130,0.8); padding:0.5em 0.75em; border-radius:4px;">I am looking for self-motivated PhD students for 27 Spring/Fall. Please email me your CV, transcripts, TOEFL/IELTS scores to my email at <a href="mailto:liugua@iu.edu">liugua@iu.edu</a>.</p>
 ---
 
 <section id="news">
@@ -18,7 +18,7 @@ My name is Guangliang. My research focuses on natural language processing, with 
   <div style="overflow-y:auto; max-height:100px;">
     <ul style="list-style:none; padding:0; margin:0; font-size: 13px;">
       <li>
-        May 2026: Extremely excited to enjoy the summer together with Dr. Bocheng Chen from University of Mississippi and Dr. Zoe Xi Chen from Nanyang Technological University on a new computational framework for toxic language and malicious attack commands.
+        May 2026: Extremely excited to enjoy the summer together with Dr. Bocheng Chen from University of Mississippi and Dr. Zoe Xi Chen from Nanyang Technological University on a new computational pragmatics framework for toxic language and malicious attack commands.
       </li>
       <li>
         May 2026: Start to work together with Dong Duong and An Pham on a project about the shallow heuristics in code models.
@@ -35,11 +35,11 @@ My name is Guangliang. My research focuses on natural language processing, with 
 <section id="lab">
 <h2>Lab</h2>
 
-<p>I direct the <strong>Language and Social Intelligence Lab</strong> at Indiana University. We work on natural language processing, computational pragmatics, and machine morality.</p>
+<p>I am the PI of the Language and Social Intelligence Lab at Indiana University. Our ultimate goal is to enable machines to understand human language and develop social intelligence that supports people.</p>
 
 <details>
 <summary style="cursor:pointer; font-weight:600; margin-bottom:0.8em;">Prospective students</summary>
-<p style="margin-top:0.8em;">I am actively looking for motivated Ph.D. students and research interns. If you are interested in joining the lab, please afeel free to email me a brief introduction along with your CV.</p>
+<p style="margin-top:0.8em;">I am actively seeking motivated Ph.D. students and research interns. If you are interested in joining the lab, please feel free to email me a brief introduction along with your CV. If you are a student at Indiana University, you are also welcome to stop by my office at IT555.</p>
 </details>
 
 <h3 style="margin-top:1.2em;">Current Members</h3>
