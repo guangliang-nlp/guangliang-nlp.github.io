@@ -27,7 +27,7 @@ author:
   name             : "Guangliang Liu"
   pronouns         : # example: "she/her"  
   bio              : "Incoming Assistant Professor at Indiana University"
-  location         : ""
+  #location         : ""
   employer         : "Indiana University"
   uri              : # URL
   email            : "liugua@iu.edu" 
