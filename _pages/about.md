@@ -34,7 +34,7 @@ I am looking for self-motivated PhD students for 27Spring/Fall. Please email me 
 <section id="lab">
 <h2>Lab</h2>
 
-<p>I direct the <strong>Human Language Technology Lab</strong> at Indiana University. We work on natural language processing, computational pragmatics, and machine morality.</p>
+<p>I direct the <strong>Language and Social Intelligence Lab</strong> at Indiana University. We work on natural language processing, computational pragmatics, and machine morality.</p>
 
 <details>
 <summary style="cursor:pointer; font-weight:600; margin-bottom:0.8em;">Prospective students</summary>
