@@ -27,7 +27,7 @@ author:
   name             : "Guangliang Liu"
   pronouns         : # example: "she/her"  
   bio              : "Incoming Assistant Professor at Indiana University"
-  location         : "Earth"
+  location         : ""
   employer         : "Indiana University"
   uri              : # URL
   email            : "liugua@iu.edu" 
@@ -35,7 +35,7 @@ author:
   # Academic websites
   #academia         : # URL
   #arxiv            : # URL - Update with the correct link to your profile
-  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=uNJGTC4AAAAJ&hl=en"
   #inspire-hep      : # URL
   #impactstory      : # URL
   #orcid            : "https://orcid.org/yourorcidurl"
