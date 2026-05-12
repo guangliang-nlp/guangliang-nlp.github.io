@@ -9,7 +9,20 @@ redirect_from:
 
 My research focuses on natural language processing, with particular interests in computational pragmatics, machine morality, and statistical learning theory. I study the mechanisms that enable machines to understand the implied meaning of human language.
 
-<p style="font-size:0.85em; background-color:rgba(242,139,130,0.1); padding:0.5em 0.75em; border-radius:4px;">I am looking for self-motivated PhD students for 27 Spring/Fall. Please email me your CV, transcripts, TOEFL/IELTS scores to my email at <a href="mailto:liugua@iu.edu">liugua@iu.edu</a>.</p>
+<p style="
+  font-size:0.9em;
+  background-color:rgba(242,139,130,0.15);
+  border-left:4px solid rgba(242,139,130,0.9);
+  padding:0.8em 1em;
+  border-radius:8px;
+  line-height:1.5;
+  margin:1em 0;
+">
+  <strong>Openings:</strong>
+  I am looking for self-motivated PhD students for Spring/Fall 2027.
+  Please email me your CV, transcripts, and TOEFL/IELTS scores at
+  <a href="mailto:liugua@iu.edu">liugua@iu.edu</a>.
+</p>
 ---
 
 <section id="news">
