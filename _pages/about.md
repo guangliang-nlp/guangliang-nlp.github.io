@@ -57,7 +57,7 @@ My research focuses on natural language processing, with particular interests in
 
 <details>
 <summary style="cursor:pointer; font-weight:600; margin-bottom:0.8em;">Prospective students</summary>
-<p style="margin-top:0.8em;">I am actively looking for motivated Ph.D. students and research interns. If you are interested in joining the lab, please afeel free to email me a brief introduction along with your CV.</p>
+<p style="margin-top:0.8em;">I am actively seeking motivated Ph.D. students and research interns. If you are interested in joining the lab, please feel free to email me a brief introduction along with your CV. If you are a student at Indiana University, you are also welcome to stop by my office at IT555.</p>
 </details>
 
 <h3 style="margin-top:1.2em;">Current Members</h3>
