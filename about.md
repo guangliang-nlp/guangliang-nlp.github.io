@@ -89,7 +89,7 @@ Humans rely on implied meaning (pragmatics) in everyday communication, whereas e
 
 <h3 style="margin-top:1.2em;">Current Members</h3>
 <ul style="list-style:none; padding:0;">
-  <li style="margin-bottom:0.4em;"><a href="#">Han Zi</a> — incoming Ph.D. student</li>
+  <li style="margin-bottom:0.4em;"><a href="#">Han Zi</a> — incoming Ph.D. student (Masters: Northeastern University; Bachelor: University of Electronic Science and Technology of China)</li>
 </ul>
 
 
