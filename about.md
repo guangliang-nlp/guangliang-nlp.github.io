@@ -31,7 +31,7 @@ I am an incoming tenure-track assistant professor in the Luddy School of Informa
   padding:0.8em 1em;
   border-radius:8px;
   line-height:1.5;
-  font-size:0.9em;
+  font-size:0.8em;
   margin:1em 0;
 ">
 
