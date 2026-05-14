@@ -33,7 +33,6 @@ I am an incoming tenure-track assistant professor in the Luddy School of Informa
   ">
 
     <div style="
-      background-color:rgba(66,133,244,0.06);
       border:1px solid rgba(66,133,244,0.12);
       border-radius:10px;
       padding:0.9em 1em;
@@ -53,7 +52,6 @@ I am an incoming tenure-track assistant professor in the Luddy School of Informa
     </div>
 
     <div style="
-      background-color:rgba(52,168,83,0.06);
       border:1px solid rgba(52,168,83,0.12);
       border-radius:10px;
       padding:0.9em 1em;
@@ -73,7 +71,6 @@ I am an incoming tenure-track assistant professor in the Luddy School of Informa
     </div>
 
     <div style="
-      background-color:rgba(251,188,5,0.08);
       border:1px solid rgba(251,188,5,0.18);
       border-radius:10px;
       padding:0.9em 1em;
