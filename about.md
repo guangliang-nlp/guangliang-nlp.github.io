@@ -9,7 +9,7 @@ redirect_from:
 
 I am an incoming tenure-track assistant professor in the Luddy School of Informatics, Computing and Engieering at Indiana University. My research focuses on <strong>natural language processing</strong> and <strong>computational linguistics</strong>, with particular interests in computational pragmatics, machine morality, and statistical learning theory.
 
-<div style="font-size:0.78em; line-height:1.6;">
+<div style="font-size:0.8em; line-height:1.6;">
   <strong style="
     display:inline-block;
     background-color:rgba(242,139,130,0.2);
