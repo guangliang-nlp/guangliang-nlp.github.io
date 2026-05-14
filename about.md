@@ -9,14 +9,20 @@ redirect_from:
 
 I am an incoming tenure-track assistant professor in the Luddy School of Informatics, Computing and Engieering at Indiana University. My research focuses on <strong>natural language processing</strong> and <strong>computational linguistics</strong>, with particular interests in computational pragmatics, machine morality, and statistical learning theory.
 
-<div style="font-size:0.75em; line-height:1.6;">
-  <strong>Research Directions:</strong>
+<div style="font-size:0.78em; line-height:1.6;">
+  <strong style="
+    display:inline-block;
+    background-color:rgba(242,139,130,0.2);
+    padding:0.2em 0.6em;
+    border-radius:4px;
+  ">Research Directions</strong>
   <ol>
     <li><strong>Pragmatic Inference</strong>: Developing inference approaches that enable machines to perform contextual grounding and predict implicatures in human communication.</li>
     <li><strong>Machine Morality</strong>: Studying how machines can acquire intrinsic morality, resolve moral dilemmas, and achieve human-level moral competence.</li>
     <li><strong>Commonsense Reasoning</strong>: Investigating how machines can estimate the consequences of verbal actions and behaviors, and acquire commonsense grounded in human social life.</li>
   </ol>
 </div>
+
 
     
 <div style="
