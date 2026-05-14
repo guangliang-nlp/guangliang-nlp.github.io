@@ -9,7 +9,91 @@ redirect_from:
 
 I am an incoming tenure-track assistant professor in the Luddy School of Informatics, Computing and Engieering at Indiana University. My research focuses on <strong>natural language processing</strong> and <strong>computational linguistics</strong>, with particular interests in computational pragmatics, machine morality, and statistical learning theory.
 
-Humans rely on implied meaning (pragmatics) in everyday communication, whereas even the most advanced language models primarily capture distributional semantics. This gap poses a fundamental barrier to language understanding and, more broadly, to social intelligence. My research develops approaches grounded in linguistics, cognition, and statistics to enable socially beneficial language technologies.
+<div style="
+  margin-top:1.5em;
+  font-size:0.9em;
+  line-height:1.6;
+">
+
+  <h2 style="
+    font-size:1.25em;
+    margin:0 0 1em 0;
+    background-color:rgba(242,139,130,0.14);
+    border-left:4px solid rgba(242,139,130,0.9);
+    padding:0.45em 0.75em;
+    border-radius:6px;
+  ">
+    Research Directions
+  </h2>
+
+  <div style="
+    display:flex;
+    flex-direction:column;
+    gap:0.9em;
+  ">
+
+    <div style="
+      background-color:rgba(66,133,244,0.06);
+      border:1px solid rgba(66,133,244,0.12);
+      border-radius:10px;
+      padding:0.9em 1em;
+    ">
+      <div style="
+        font-size:1.02em;
+        font-weight:600;
+        margin-bottom:0.35em;
+        color:#1f3b73;
+      ">
+        1. Pragmatic Inference
+      </div>
+      <div>
+        Developing inference approaches that enable machines to perform
+        contextual grounding and predict implicatures in human communication.
+      </div>
+    </div>
+
+    <div style="
+      background-color:rgba(52,168,83,0.06);
+      border:1px solid rgba(52,168,83,0.12);
+      border-radius:10px;
+      padding:0.9em 1em;
+    ">
+      <div style="
+        font-size:1.02em;
+        font-weight:600;
+        margin-bottom:0.35em;
+        color:#245c36;
+      ">
+        2. Machine Morality
+      </div>
+      <div>
+        Studying how machines can acquire intrinsic morality, resolve moral dilemmas,
+        and achieve human-level moral competence.
+      </div>
+    </div>
+
+    <div style="
+      background-color:rgba(251,188,5,0.08);
+      border:1px solid rgba(251,188,5,0.18);
+      border-radius:10px;
+      padding:0.9em 1em;
+    ">
+      <div style="
+        font-size:1.02em;
+        font-weight:600;
+        margin-bottom:0.35em;
+        color:#7a5a00;
+      ">
+        3. Commonsense Reasoning
+      </div>
+      <div>
+        Investigating how machines can estimate the consequences of verbal actions
+        and behaviors, and acquire commonsense grounded in human social life.
+      </div>
+    </div>
+
+  </div>
+</div>
 
 <div style="
   background-color:rgba(66, 133, 244, 0.10);
