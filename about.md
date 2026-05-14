@@ -32,8 +32,10 @@ I am an incoming tenure-track assistant professor in the Luddy School of Informa
     gap:0.9em;
   ">
 1. Pragmatic Inference: Developing inference approaches that enable machines to perform contextual grounding and predict implicatures in human communication.
+    
 2. Machine Morality: Studying how machines can acquire intrinsic morality, resolve moral dilemmas, and achieve human-level moral competence.
-3. Commonsense Reasoning: Investigating how machines can estimate the consequences of verbal actions and behaviors, and acquire commonsense grounded in human social life.
+3. 
+4. Commonsense Reasoning: Investigating how machines can estimate the consequences of verbal actions and behaviors, and acquire commonsense grounded in human social life.
     
 <div style="
   background-color:rgba(66, 133, 244, 0.10);
