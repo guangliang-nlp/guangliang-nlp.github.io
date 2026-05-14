@@ -37,14 +37,7 @@ I am an incoming tenure-track assistant professor in the Luddy School of Informa
       border-radius:10px;
       padding:0.9em 1em;
     ">
-      <div style="
-        font-size:1.02em;
-        font-weight:600;
-        margin-bottom:0.35em;
-        color:#1f3b73;
-      ">
-        1. Pragmatic Inference
-      </div>
+      <div style="margin-bottom:0.35em;">1. Pragmatic Inference</div>
       <div>
         Developing inference approaches that enable machines to perform
         contextual grounding and predict implicatures in human communication.
@@ -56,14 +49,7 @@ I am an incoming tenure-track assistant professor in the Luddy School of Informa
       border-radius:10px;
       padding:0.9em 1em;
     ">
-      <div style="
-        font-size:1.02em;
-        font-weight:600;
-        margin-bottom:0.35em;
-        color:#245c36;
-      ">
-        2. Machine Morality
-      </div>
+      <div style="margin-bottom:0.35em;">2. Machine Morality</div>
       <div>
         Studying how machines can acquire intrinsic morality, resolve moral dilemmas,
         and achieve human-level moral competence.
@@ -75,14 +61,7 @@ I am an incoming tenure-track assistant professor in the Luddy School of Informa
       border-radius:10px;
       padding:0.9em 1em;
     ">
-      <div style="
-        font-size:1.02em;
-        font-weight:600;
-        margin-bottom:0.35em;
-        color:#7a5a00;
-      ">
-        3. Commonsense Reasoning
-      </div>
+      <div style="margin-bottom:0.35em;">3. Commonsense Reasoning</div>
       <div>
         Investigating how machines can estimate the consequences of verbal actions
         and behaviors, and acquire commonsense grounded in human social life.
@@ -91,7 +70,6 @@ I am an incoming tenure-track assistant professor in the Luddy School of Informa
 
   </div>
 </div>
-
 <div style="
   background-color:rgba(66, 133, 244, 0.10);
   border-left:4px solid rgba(66, 133, 244, 0.85);
