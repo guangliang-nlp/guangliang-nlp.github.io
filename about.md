@@ -31,45 +31,10 @@ I am an incoming tenure-track assistant professor in the Luddy School of Informa
     flex-direction:column;
     gap:0.9em;
   ">
-
-    <div style="
-      border:1px solid rgba(66,133,244,0.12);
-      border-radius:10px;
-      padding:0.9em 1em;
-    ">
-      <div style="margin-bottom:0.35em;">1. Pragmatic Inference</div>
-      <div>
-        Developing inference approaches that enable machines to perform
-        contextual grounding and predict implicatures in human communication.
-      </div>
-    </div>
-
-    <div style="
-      border:1px solid rgba(52,168,83,0.12);
-      border-radius:10px;
-      padding:0.9em 1em;
-    ">
-      <div style="margin-bottom:0.35em;">2. Machine Morality</div>
-      <div>
-        Studying how machines can acquire intrinsic morality, resolve moral dilemmas,
-        and achieve human-level moral competence.
-      </div>
-    </div>
-
-    <div style="
-      border:1px solid rgba(251,188,5,0.18);
-      border-radius:10px;
-      padding:0.9em 1em;
-    ">
-      <div style="margin-bottom:0.35em;">3. Commonsense Reasoning</div>
-      <div>
-        Investigating how machines can estimate the consequences of verbal actions
-        and behaviors, and acquire commonsense grounded in human social life.
-      </div>
-    </div>
-
-  </div>
-</div>
+1. Pragmatic Inference: Developing inference approaches that enable machines to perform contextual grounding and predict implicatures in human communication.
+2. Machine Morality: Studying how machines can acquire intrinsic morality, resolve moral dilemmas, and achieve human-level moral competence.
+3. Commonsense Reasoning: Investigating how machines can estimate the consequences of verbal actions and behaviors, and acquire commonsense grounded in human social life.
+    
 <div style="
   background-color:rgba(66, 133, 244, 0.10);
   border-left:4px solid rgba(66, 133, 244, 0.85);
