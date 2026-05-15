@@ -17,9 +17,9 @@ I am an incoming tenure-track assistant professor in the Luddy School of Informa
     border-radius:4px;
   ">Research Directions</strong>
   <ol>
-    <li><strong>Pragmatic Inference</strong>: Developing inference approaches that enable machines to perform contextual grounding and predict implicatures in human communication.</li>
-    <li><strong>Machine Morality</strong>: Studying how machines can acquire intrinsic morality, resolve moral dilemmas, and achieve human-level moral competence.</li>
-    <li><strong>Commonsense Reasoning</strong>: Investigating how machines can estimate the consequences of verbal actions and behaviors, and acquire commonsense grounded in human social life.</li>
+    <li><strong>Pragmatic Inference</strong>: Developing inference approaches that enable LLMs to perform contextual grounding and predict implicatures in human communication.</li>
+    <li><strong>Machine Morality</strong>: Studying how LLMs can acquire intrinsic morality, resolve moral dilemmas, and achieve human-level moral competence.</li>
+    <li><strong>Commonsense Reasoning</strong>: Investigating how LLMs can estimate the consequences of verbal actions and behaviors, and acquire commonsense grounded in human social life.</li>
   </ol>
 </div>
 
