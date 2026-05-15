@@ -105,6 +105,7 @@ I am an incoming tenure-track assistant professor in the Luddy School of Informa
 </details>
 
 <h3 style="margin-top:1.2em;">Current Members</h3>
+I am extremely fortunate to work with:
 <ul style="list-style:none; padding:0;">
   <li style="margin-bottom:0.4em;"><a href="#">Han Zi</a> — incoming Ph.D. student (Masters: Northeastern University; Bachelor: University of Electronic Science and Technology of China)</li>
   <li style="margin-bottom:0.4em;"><a href="#">Dong Duong</a> — Undegraduate Researcher at Michigan State University</li>
