@@ -68,6 +68,9 @@ I am an incoming tenure-track assistant professor in the Luddy School of Informa
   <div style="overflow-y:auto; max-height:100px;">
     <ul style="list-style:none; padding:0; margin:0; font-size: 13px;">
       <li>
+        <strong>May 2026</strong>: Just submitted my meta-review for ACL ARR March. I’m really excited to see so many submissions in the area of moral reasoning. For a long time, only a small number of researchers were working on it.
+      </li>
+      <li>
         <strong>May 2026</strong>: I will serve as an area chair for ACL ARR May and EMNLP2026.
       </li>
       <li>
