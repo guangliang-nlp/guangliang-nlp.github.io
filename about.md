@@ -11,7 +11,7 @@ I am an incoming tenure-track assistant professor in the Luddy School of Informa
 </p>
 
 <p style="font-size: 1.0em;">
-I am deeply interested in identifying <strong>the first principle</strong> that would enable machines, particularly LLMs, to <strong>capture the implied meaning of human language</strong>. In my research, I have explored ideas from statistical learning theory, linguistics, and cognitive science to help statistical models better understand the pragmatic cues of human language. However, none of these perspectives has yet provided a fully satisfactory answer. I am still actively searching for one.
+Humans rely heavily on implied meaning in everyday communication. I am deeply interested in identifying <strong>the first principle</strong> that would enable machines, particularly LLMs, to <strong>capture the implied meaning of human language</strong>. In my research, I have explored ideas from statistical learning theory, linguistics, and cognitive science to help statistical models better understand the pragmatic cues of human language. However, none of these perspectives has yet provided a fully satisfactory answer. I am still actively searching for one.
 </p>
 
 
