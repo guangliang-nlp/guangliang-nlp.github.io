@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 <p style="font-size: 1.0em;">
-  I am an incoming tenure-track assistant professor in the Luddy School of Informatics, Computing and Engieering at Indiana University. My research focuses on <strong>natural language processing</strong> and <strong>computational linguistics</strong>, with particular interests in computational pragmatics, machine morality, and statistical learning theory. 
+  I am an incoming tenure-track assistant professor in the Luddy School of Informatics, Computing and Engieering at Indiana University. My research focuses on <strong>natural language processing</strong> and <strong>computational linguistics</strong>. 
 
-I am deeply interested in identifying the first principle that would enable machines, particularly LLMs, to capture the implied meaning of human language. In my research, I have explored ideas from statistical learning theory, linguistics, and cognitive science to help statistical models better understand the pragmatic cues of human language. However, none of these perspectives has yet provided a fully satisfactory answer. I am still actively searching for one.
+I am deeply interested in identifying <strong>the first principle</strong> that would enable machines, particularly LLMs, to <strong>capture the implied meaning of human language</strong>. In my research, I have explored ideas from statistical learning theory, linguistics, and cognitive science to help statistical models better understand the pragmatic cues of human language. However, none of these perspectives has yet provided a fully satisfactory answer. I am still actively searching for one.
 </p>
 
 <div style="font-size:0.8em; line-height:1.6;">
