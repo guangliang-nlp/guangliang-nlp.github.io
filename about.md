@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p style="font-size: 1.0em;">
+<p style="font-size:0.85em;">
 I am an incoming tenure-track assistant professor in the Luddy School of Informatics, Computing and Engieering at Indiana University. My research focuses on <strong>natural language processing</strong> and <strong>computational linguistics</strong>. 
 </p>
 
-<p style="font-size: 1.0em;">
+<p style="font-size:0.85em;">
 Humans rely heavily on implied meaning in everyday communication. I am deeply interested in identifying <strong>the first principle</strong> that would enable machines, particularly LLMs, to <strong>capture the implied meaning of human language</strong>. In my research, I have explored ideas from statistical learning theory, linguistics, and cognitive science to help statistical models better capture <span style="background-color: red; color: white;">(definitely not understand!)</span> the pragmatic cues of human language. However, none of these perspectives has yet provided a fully satisfactory answer. I am still actively searching for one.
 </p>
 
